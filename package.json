@@ -21,6 +21,6 @@
     "clean": "bsb -clean-world"
   },
   "devDependencies": {
-    "bsb-native": "4.0.6"
+    "bsb-native": "bsansouci/bucklescript"
   }
 }
